@@ -1,0 +1,19 @@
+body {
+	width: 1000px;
+	height: 800px;
+}
+
+#Column1 {
+
+	height: 500px;
+	width:400px;
+	float:left;
+}
+
+#Column2 {
+
+	height: 500px;
+	width: 400px;
+	float: right;
+
+}
